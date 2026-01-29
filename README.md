@@ -1,6 +1,5 @@
- # Title
-**Version: 1.0**
-*
+ # Super Pickler
+**Version: 0.1**
 
 [Go here to play the working game]()
 
