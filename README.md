@@ -34,4 +34,4 @@
 *How To Compile*
 * Download the current version of [Gdevelop](https://gdevelop.io/download)
 * Download and unzip this source folder
-* Open SuperPickler.json in gdevelop
+* Open SuperPickler!.json in gdevelop
